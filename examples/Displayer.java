@@ -1,7 +1,7 @@
 package examples;
 
-class HiWorld {
+public class Displayer {
 	public static void main(String[] args) {
-		System.out.println("Hi World!");
+		System.out.println("I love Java!");
 	}
 }
